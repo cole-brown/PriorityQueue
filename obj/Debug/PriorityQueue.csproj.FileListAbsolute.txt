@@ -1,0 +1,6 @@
+c:\users\spydez\documents\visual studio 2015\Projects\PriorityQueue\PriorityQueue\bin\Debug\PriorityQueue.exe.config
+c:\users\spydez\documents\visual studio 2015\Projects\PriorityQueue\PriorityQueue\bin\Debug\PriorityQueue.exe
+c:\users\spydez\documents\visual studio 2015\Projects\PriorityQueue\PriorityQueue\bin\Debug\PriorityQueue.pdb
+c:\users\spydez\documents\visual studio 2015\Projects\PriorityQueue\PriorityQueue\obj\Debug\PriorityQueue.csprojResolveAssemblyReference.cache
+c:\users\spydez\documents\visual studio 2015\Projects\PriorityQueue\PriorityQueue\obj\Debug\PriorityQueue.exe
+c:\users\spydez\documents\visual studio 2015\Projects\PriorityQueue\PriorityQueue\obj\Debug\PriorityQueue.pdb
